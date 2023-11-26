@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:rgb(94, 7, 7);
+    background-color:rgb(179, 60, 203)
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 13rem;
     font-family: 'Montserrat', sans-serif;
 }
 
